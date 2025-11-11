@@ -31,6 +31,8 @@ In this 4-hour workshop, participants will be introduced to the basics of progra
 
 1. **Module 1 -- Python Basics (1 hour)**
     1. Hello, World!
+        1. Into the Python-verse!
+        2. Python Tools
     2. Variables
         1. Variable names
         2. Variable Assignment
@@ -73,7 +75,8 @@ In this 4-hour workshop, participants will be introduced to the basics of progra
         3. Function Return values
     3. Documenting Functions
         1. Defining function docstrings
-    4. **Exercise:** Writing functions for biological sequences.
+    4. To script, or not to script?
+    5. **Exercise:** Writing functions for biological sequences.
 5. **Module 5 -- Where to go from here (10 minutes)**
     1. What to learn next? How?
     2. How to get help and how not to get help

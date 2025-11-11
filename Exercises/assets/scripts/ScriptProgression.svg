@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="223.13785mm"
+   height="94.362892mm"
+   viewBox="0 0 223.13785 94.362892"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4 (e7c3feb1, 2024-10-09)"
+   sodipodi:docname="ScriptProgression.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.59457404"
+     inkscape:cx="598.74797"
+     inkscape:cy="172.39232"
+     inkscape:window-width="1440"
+     inkscape:window-height="798"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1">
+    <marker
+       style="overflow:visible"
+       id="ConcaveTriangle"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Concave triangle arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path8" />
+    </marker>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(16.942024,-93.65811)">
+    <g
+       id="g2"
+       transform="translate(-29.901056,2.7637813)">
+      <rect
+         style="font-variation-settings:'wght' 600;fill:#ffffff;stroke:#1a1a1a;stroke-width:0.917001;stroke-linecap:round;stroke-linejoin:round"
+         id="rect1"
+         width="60.222881"
+         height="36.196136"
+         x="13.417533"
+         y="119.97771"
+         ry="13.885587" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;line-height:normal;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, @wght=600';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'wght' 600;text-align:center;text-decoration-color:#000000;letter-spacing:0px;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#ffffff;stroke:#1a1a1a;stroke-width:0.917001;stroke-linecap:round;stroke-linejoin:round"
+         x="43.393925"
+         y="140.16626"
+         id="text1"><tspan
+           sodipodi:role="line"
+           id="tspan1"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, @wght=600';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'wght' 600;fill:#000000;stroke:none;stroke-width:0.917"
+           x="43.393925"
+           y="140.16626">Code in notebook</tspan></text>
+    </g>
+    <g
+       id="g3"
+       transform="translate(51.097927,2.7637813)">
+      <rect
+         style="font-variation-settings:'wght' 600;fill:#ffffff;stroke:#1a1a1a;stroke-width:0.917001;stroke-linecap:round;stroke-linejoin:round"
+         id="rect2"
+         width="60.222881"
+         height="36.196136"
+         x="13.417533"
+         y="119.97771"
+         ry="13.885587" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;line-height:normal;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, @wght=600';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'wght' 600;text-align:center;text-decoration-color:#000000;letter-spacing:0px;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#ffffff;stroke:#1a1a1a;stroke-width:0.917001;stroke-linecap:round;stroke-linejoin:round"
+         x="43.35672"
+         y="140.16626"
+         id="text2"><tspan
+           sodipodi:role="line"
+           id="tspan2"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, @wght=600';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'wght' 600;fill:#000000;stroke:none;stroke-width:0.917"
+           x="43.35672"
+           y="140.16626">Function in notebook</tspan></text>
+    </g>
+    <g
+       id="g7"
+       transform="translate(0,0.5922388)">
+      <g
+         id="g4"
+         transform="translate(132.09691,-26.453335)">
+        <rect
+           style="font-variation-settings:'wght' 600;fill:#ffffff;stroke:#1a1a1a;stroke-width:0.917001;stroke-linecap:round;stroke-linejoin:round"
+           id="rect3"
+           width="60.222881"
+           height="36.196136"
+           x="13.417533"
+           y="119.97771"
+           ry="13.885587" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;line-height:normal;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, @wght=600';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'wght' 600;text-align:center;text-decoration-color:#000000;letter-spacing:0px;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#ffffff;stroke:#1a1a1a;stroke-width:0.917001;stroke-linecap:round;stroke-linejoin:round"
+           x="43.426998"
+           y="139.57507"
+           id="text3"><tspan
+             sodipodi:role="line"
+             id="tspan3"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, @wght=600';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'wght' 600;fill:#000000;stroke:none;stroke-width:0.917"
+             x="43.426998"
+             y="139.57507">Function in script</tspan></text>
+      </g>
+      <g
+         id="g5"
+         transform="translate(132.09691,30.79642)">
+        <rect
+           style="font-variation-settings:'wght' 600;fill:#ffffff;stroke:#1a1a1a;stroke-width:0.917001;stroke-linecap:round;stroke-linejoin:round"
+           id="rect4"
+           width="60.222881"
+           height="36.196136"
+           x="13.417533"
+           y="119.97771"
+           ry="13.885587" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;line-height:normal;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, @wght=600';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'wght' 600;text-align:center;text-decoration-color:#000000;letter-spacing:0px;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#ffffff;stroke:#1a1a1a;stroke-width:0.917001;stroke-linecap:round;stroke-linejoin:round"
+           x="43.442158"
+           y="139.60678"
+           id="text4"><tspan
+             sodipodi:role="line"
+             id="tspan4"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, @wght=600';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'wght' 600;fill:#000000;stroke:none;stroke-width:0.917"
+             x="43.442158"
+             y="139.60678">Function in package</tspan></text>
+      </g>
+    </g>
+    <path
+       style="font-variation-settings:'wght' 600;fill:none;stroke:#000000;stroke-width:0.917001;stroke-linecap:round;stroke-linejoin:round;marker-end:url(#ConcaveTriangle)"
+       d="M 43.548107,140.61284 H 59.507411"
+       id="path7"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="font-variation-settings:'wght' 600;fill:none;stroke:#000000;stroke-width:0.917001;stroke-linecap:round;stroke-linejoin:round;marker-end:url(#ConcaveTriangle)"
+       d="m 124.96968,140.61284 c 10.64347,0 -0.0611,-28.39816 15.2531,-28.39816"
+       id="path9"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="font-variation-settings:'wght' 600;fill:none;stroke:#000000;stroke-width:0.917001;stroke-linecap:round;stroke-linejoin:round;marker-end:url(#ConcaveTriangle)"
+       d="m 124.96968,141.52984 c 10.64347,0 -0.0611,27.93459 15.2531,27.93459"
+       id="path10"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="font-variation-settings:'wght' 600;fill:none;stroke:#000000;stroke-width:0.917001;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:0.917001, 1.834;stroke-dashoffset:0;marker-end:url(#ConcaveTriangle)"
+       d="m 175.62588,130.31275 v 15.76194"
+       id="path11"
+       sodipodi:nodetypes="cc" />
+  </g>
+</svg>
