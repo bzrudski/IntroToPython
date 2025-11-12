@@ -43,7 +43,7 @@ In this 4-hour workshop, participants will be introduced to the basics of progra
         1. String slicing and indexing
         2. String formatting
         3. String methods
-    5. Exercise: Temperature conversion
+    5. **Exercises:** Temperature conversion and DNA GC content
 2. **Module 2 -- Collections (1 hour)**
     1. Lists and List Methods
         1. Length of a list
@@ -57,14 +57,14 @@ In this 4-hour workshop, participants will be introduced to the basics of progra
         1. Retrieving elements
         2. Adding and modifying elements
         3. Removing elements
-    4. Exercise: Working with collections
+    4. **Exercises:** Working with collections
 3. **Module 3 - Intro to Control Flow and Loops (40 minutes)**
     1. Control Flow: the if statement
     2. Loops
         1. while loops
         2. Iteration with for loops
         3. Interrupting loops
-    3. Exercise: Numbers and Loops for Unit Conversion
+    3. **Exercises:** Working with Strings and Collections for DNA and Protein Processing
 4. **Module 4 -- Introduction to Functions (30 minutes)**
     1. Function Overview
         1. What is a function?
@@ -76,7 +76,7 @@ In this 4-hour workshop, participants will be introduced to the basics of progra
     3. Documenting Functions
         1. Defining function docstrings
     4. To script, or not to script?
-    5. **Exercise:** Writing functions for biological sequences.
+    5. **Exercises:** Writing functions for biological sequences
 5. **Module 5 -- Where to go from here (10 minutes)**
     1. What to learn next? How?
     2. How to get help and how not to get help
